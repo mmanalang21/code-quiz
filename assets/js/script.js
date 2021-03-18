@@ -157,7 +157,7 @@ window.addEventListener('load', function (ev) {
 
             renderHighScores();
 
-            alert("Thanks for submiting!");
+            alert("Thanks for submitting!");
         }
     });
 
