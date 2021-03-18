@@ -1,7 +1,9 @@
 ## Code Quiz
 
+<img src="assets/images/codeQuizScreenshot.png">
+
 ## Purpose
-Create a password generating feature with random letters, numbers and special character variables so end users can have a strong and secure password. Should be a minium of 8 and maximum of 128 characters.  
+Build a timed quiz with multiple choice questions. Include dynamic HTML and CSS powered by JavaScript code. 
 
 ## Built With
 * Javascript
@@ -9,7 +11,7 @@ Create a password generating feature with random letters, numbers and special ch
 * CSS
 
 ## Website
-https://mmanalang21.github.io/friendly-parakeet/
+https://mmanalang21.github.io/code-quiz/
 
 ## Contribution
-Made with ❤️ by Matthew Manalang
+Made by Matthew Manalang
